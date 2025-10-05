@@ -40,7 +40,7 @@ mvn spring-boot:run
 
 Ứng dụng chạy trên: `http://localhost:8080`
 
-## Kiểm thử bằng cURL
+## Kiểm thử bằng cURL với CMD
 
 ### 1. GET hợp lệ
 
